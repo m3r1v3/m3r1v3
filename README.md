@@ -8,6 +8,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter](https://twitter.com/merive_ "merive_")
 - ⚡ Fun fact: Programming for me is not only a hobby for work
 
-📊 **I am spending my time on**
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
