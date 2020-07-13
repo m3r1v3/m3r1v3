@@ -9,4 +9,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Programming for me is not only a hobby but also a job
 
 <!--START_SECTION:waka-->
+```text
+
+```
 <!--END_SECTION:waka-->
