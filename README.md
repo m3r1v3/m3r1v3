@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 📊 **I am spending my time on**
 <!--START_SECTION:waka-->
 ```text
-
+Python      8 mins              █████████████████████████   100.0
 ```
 <!--END_SECTION:waka-->
