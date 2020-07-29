@@ -1,14 +1,14 @@
 ### Hi there 👋
-Here are some ideas to get you started:
-- 🔭 I'm currently working on closed source project
-- 🌱 I’m currently learning Android programming
-- 👯 I'm looking to collaborate in development
-- 🤔 I expect help from you
-- 💬 Ask me about programming or my projects
-- 📫 How to reach me: [Twitter](https://twitter.com/merive_ "merive_")
-- ⚡ Fun fact: Programming for me is not only a hobby but also a job
+#### I'm Max and I programmer. Welcome)
 
-📊 **I am spending my time on**
+**Something about me**:
+- ⌨ I am writing in Python, Java & HTML / CSS
+- 🌐 [My web site](https://merive.herokuapp.com/)
+- 🎈 I write code for a year
+- 💻 I am currently working on a very cool Java project (*Android application*)
+- 😍 I really love programming)
+
+📊 **Few my stats:**
 <!--START_SECTION:waka-->
 ```text
 Python   7 hrs 1 min     █████████████████░░░░░░░░   68.98 % 
