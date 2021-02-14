@@ -6,6 +6,7 @@
 - 💻 I write a lot of code 💻
 - 🌐 [My web site](https://merive.herokuapp.com/) 🌐
 - 💾 I realized global update for [MTools](https://github.com/merive/MTools) 💾
+- 🖥️ I like using Linux 🖥️
 - 😍 I really love programming) 😍
 
 📊 **Coding statistics:**
