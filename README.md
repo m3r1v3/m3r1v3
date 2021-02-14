@@ -5,7 +5,7 @@
 - ⌨ I am writing in _Python, Java, HTML/CSS, C/Assembler_ ⌨
 - 💻 I write a lot of code 💻
 - 🌐 [My web site](https://merive.herokuapp.com/) 🌐
-- 💾 I realized global update for [MTools] (https://github.com/merive/MTools) 💾
+- 💾 I realized global update for [MTools](https://github.com/merive/MTools) 💾
 - 😍 I really love programming) 😍
 
 📊 **Coding statistics:**
