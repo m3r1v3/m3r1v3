@@ -1,14 +1,14 @@
-### Hi there 👋
-#### I'm Max and I programmer. Welcome to my GitHub)
+## Hi there 👋
+### I'm Max and I programmer. Welcome to my GitHub Profile)
 
-#### **Few about me**:
+#### **Few about me**
 - 👨‍💻 I'm Junior Python/Java Developer 👨‍💻
 - 📁 I'm always working on my projects 📁
-- 🖥️ I really like Linux, I use Pop_OS 🖥️
-- ⌨️ I write code 2 years ⌨️
+- 🖥️ I really like Linux. Now, I'm using Pop!_OS 🖥️
+- ⌨️ I write code for 2 years ⌨️
 - 💻 I like coding and IT 💻
 
-#### 📊 **Coding statistics:**
+#### 📊 **Coding statistics**
 <!--START_SECTION:waka-->
 ```text
 Markdown   9 mins          ████████████▒░░░░░░░░░░░░   49.39 % 
@@ -17,4 +17,4 @@ HTML       1 min           █▒░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-#### **About me on [my site](https://merive.herokuapp.com/about)**
+### **You can find out more about me and my projects on my *[website](https://merive.herokuapp.com/)***
