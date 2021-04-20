@@ -19,4 +19,4 @@ Python   3 mins          ░░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-### **You can find out more about me and my projects on my *[website](https://merive.herokuapp.com/)***
+### *You can find out more about me and my projects on my **[website](https://merive.herokuapp.com/)** 🌐*
