@@ -4,10 +4,11 @@
 #### **Few about me**
 - 👨‍💻 I'm _Junior Python/Java Developer_
 - 📁 I'm always working on my projects
-- 🖥️ I really like **Linux**. Now, I'm using **Pop!_OS**. Coming soon I'will start using Fedora.
+- 🖥️ I really like **Linux**. Now, I'm using **Pop!_OS**. Coming soon I will start using Fedora.
 - ⌨️ I write code for _2_ years
 - 💻 I like coding and IT
-- 📃 Working on *[SecurePass Password Manager](https://github.com/merive/SecurePass)*
+- 📃 Working on *[SecurePass Password Manager](https://github.com/merive/SecurePass)* and another *[my projects](https://merive.herokuapp.com/projects)*.
+- 
 
 #### 📊 **Coding statistics**
 <!--START_SECTION:waka-->
