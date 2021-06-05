@@ -7,7 +7,7 @@
 - 🖥️ I really like **Linux**. Now, I'm using **Fedora**.
 - ⌨️ I write code for _2_ years
 - 💻 I like coding and IT
-- 📃 Working on *[SecurePass Password Manager](https://github.com/merive/SecurePass)* and another *[my projects](https://merive.herokuapp.com/projects)*.
+- 📃 I released global update for **[P1MT](https://github.com/merive/Press1MTimes)**
 - 👾 I like _Games_, _Linux customization_, _Custom keyboards_ and _Speed Typing_.
 
 #### 📊 **Coding statistics**
