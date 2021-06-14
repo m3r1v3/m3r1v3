@@ -1,13 +1,13 @@
 ## Hi there 👋
 ### I'm Max and I programmer. Welcome to my GitHub Profile)
 
-#### **Few about me**
+#### **About me**
 - 👨‍💻 I'm _Junior Python/Java Developer_
-- 📁 I'm always working on my projects
-- 🖥️ I really like **Linux**. Now, I'm using **Fedora**.
-- ⌨️ I write code for _2_ years
+- 📁 Working on my projects
+- 🖥️ I very like **Linux**. I'm using **Fedora (i3wm)**.
+- ⌨️ I write code _2 years_
 - 💻 I like coding and IT
-- 📃 I released global update for **[P1MT](https://github.com/merive/Press1MTimes)**
+- 📃 Thinking about future project _(TOP SECRET)_
 - 👾 I like _Games_, _Linux customization_, _Custom keyboards_ and _Speed Typing_.
 
 #### 📊 **Coding statistics**
@@ -21,4 +21,4 @@ Groovy   25 mins         ██░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-### **You can find out more about me and my projects on my _[website](https://merive.herokuapp.com/)_ 🌐**
+### **You can find more information about me on my _[website](https://merive.herokuapp.com/)_ 🌐**
