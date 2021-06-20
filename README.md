@@ -8,7 +8,8 @@
 - ⌨️ I write code _2 years_
 - 💻 I like coding and IT
 - 📃 Thinking about future project _(TOP SECRET)_
-- 👾 I like _Games_, _Linux customization_, _Custom keyboards_ and _Speed Typing_.
+- 👾 I like _Games_
+- 👀 I'm interesting _Linux customization_, _Custom keyboards_ and _Speed Typing_.
 
 #### 📊 **Coding statistics**
 <!--START_SECTION:waka-->
