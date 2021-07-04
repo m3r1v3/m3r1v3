@@ -7,7 +7,6 @@
 - 🖥️ I very like **Linux**. I'm using **Fedora (i3wm)**.
 - ⌨️ I write code _2 years_
 - 💻 I like coding and IT
-- 📃 Thinking about future project _(TOP SECRET)_
 - 👾 I like _Games_
 - 👀 I'm interesting _Linux customization_, _Custom keyboards_ and _Speed Typing_.
 
