@@ -2,7 +2,7 @@
 #### :smile: My name is Max. Welcome to my GitHub Profile
 #### :mag_right: About me
 - :man_technologist: I'm **Junior Python/Java Developer**
-- :computer: I very like **Linux** (Using **Pop!_OS**)
+- :computer: I very like **Linux** (Using **Pop!\_OS** (**Gnome**))
 - :keyboard: I write code more than **2 years**
 - :video_game: I like **Video Games**
 - :eyes: I'm interesting **Linux Customization**, **3D Modeling**, **Custom Keyboards**
