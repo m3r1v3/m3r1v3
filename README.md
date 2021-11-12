@@ -11,7 +11,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 05 November, 2021 - 11 November, 2021
+
+Java     15 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   71.80 % 
+Groovy   4 mins          ⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.35 % 
+XML      2 mins          ⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.85 % 
 ```
 <!--END_SECTION:waka-->
 
