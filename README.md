@@ -21,8 +21,6 @@ Text       10 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 <!--END_SECTION:waka-->
 
-### :globe_with_meridians: Find more information about me on my [Website](https://merive.herokuapp.com/)
-
 ### :label: Badges
 
 ### :computer: Operation Systems
@@ -38,5 +36,4 @@ Text       10 mins         ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-
-
+### :globe_with_meridians: Find more information about me on my [Website](https://merive.herokuapp.com/)
