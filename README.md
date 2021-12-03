@@ -3,9 +3,9 @@
 ### :smiley: My name is Max. Welcome to my GitHub Profile
 
 ### :mag_right: About me
-- :man_technologist: I'm **Junior Python/Java Developer**
+- :man_technologist: I'm a **Junior Python/Java Developer**
 - :computer: BTW I'm using **Manjaro** with **i3-gaps**
-- :keyboard: I write code **>2 years**
+- :keyboard: I'm writing code **>2 years**
 - :video_game: I'm playing **Video Games**
 - :eyes: I'm interesting **Linux Customization**, **3D Modeling**, **Custom Keyboards** and **Comics**
 
