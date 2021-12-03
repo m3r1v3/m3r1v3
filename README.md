@@ -4,7 +4,7 @@
 
 ### :mag_right: About me
 - :man_technologist: I'm a **Junior Python/Java Developer**
-- :computer: BTW I'm using **Manjaro** with **i3-gaps**
+- :computer: BTW I use **Manjaro** with **i3-gaps** (xD)
 - :keyboard: I'm writing code **>2 years**
 - :video_game: I'm playing **Video Games**
 - :eyes: I'm interesting **Linux Customization**, **3D Modeling**, **Custom Keyboards** and **Comics**
