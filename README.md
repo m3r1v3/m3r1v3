@@ -5,7 +5,7 @@
 - :computer: BTW I use **Manjaro** with **i3-gaps**
 - :keyboard: I'm writing code **>2 years**
 - :video_game: I'm playing **Video Games**
-- :eyes: I'm interesting **Linux Customization**, **3D Modeling**, **Custom Keyboards** and **Comics**
+- :eyes: I'm interesting **Linux Customization**, **3D Modeling**, **Custom Keyboards** and **Books**
 
 ### :bar_chart: Coding stats
 
