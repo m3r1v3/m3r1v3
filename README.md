@@ -1,4 +1,4 @@
-## :smiley: Welcome to my GitHub Profile
+# :christmas_tree: Welcome to My GitHub Profile
 
 ## :mag_right: About me
 - :man_technologist: I'm a **Junior Python/Java Developer**
