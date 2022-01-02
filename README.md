@@ -11,11 +11,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 December, 2021 - 31 December, 2021
-
-Python     3 hrs 42 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀   87.04 % 
-Markdown   23 mins         ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.22 % 
-Text       9 mins          ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.73 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
