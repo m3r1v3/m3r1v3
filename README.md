@@ -1,13 +1,23 @@
-# :christmas_tree: Welcome to My GitHub Profile
+<div align="center">
+    <img src="https://github.com/merive/merive/assets/merive.svg" width="64">
+    <h1 align="center">merive_</h1>
+    <p align="center">Python/Java Programmer<br>Welcome to my GitHub Account</p>
+</div>
 
-## :mag_right: About me
-- :man_technologist: I'm a **Junior Python/Java Developer**
-- :computer: I'm using **Manjaro** with **i3-gaps**
-- :keyboard: I'm writing code **>2 years**
-- :video_game: I'm playing **Video Games**
-- :eyes: I'm interesting **Linux Customization**, **3D Modeling**, **Custom Keyboards** and **Books**
+<hr/>
 
-## :bar_chart: Coding stats
+<div align="center">
+    <h2>About me</h2>
+    <p>
+        I'm a <b>Junior Python/Java Developer</b><br>
+        I'm using <b>Manjaro** with <b>i3-gaps</b><br>
+        I'm writing code more than <b>2 years</b><br>
+        I'm playing <b>Video Games</b><br>
+        I'm interesting <b>Linux Customization</b>, <b>3D Modeling</b>, <b>Custom Keyboards</b> and <b>Books</b>
+    </p>
+</div>
+
+## Coding stats
 
 <!--START_SECTION:waka-->
 ```text
