@@ -13,7 +13,7 @@
         I'm using <b>Manjaro</b> with <b>i3-gaps</b><br>
         I'm writing code more than <b>2 years</b><br>
         I'm playing <b>Video Games</b><br>
-        I'm interesting <b>Linux Customization</b>, <b>3D Modeling</b>, <b>Custom Keyboards</b> and <b>Books</b>
+        I'm interesting <b>Linux Customization</b>, <b>3D Modeling</b>, <b>Custom Keyboards</b>, <b>Books</b>, <b>NFT</b> and <b>Web3</b>
     </p>
 </div>
 
