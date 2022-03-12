@@ -1,25 +1,16 @@
 <div align="center">
     <img src="https://github.com/merive/merive/blob/master/assets/merive.svg" width="64">
     <h1 align="center">merive_</h1>
-    <p align="center">Python/Java Programmer<br>Welcome to my GitHub Account</p>
-</div>
-
-<hr/>
-
-<div align="center">
-    <h2>About me</h2>
-    <p>
-        I'm a <b>Junior Python/Java Developer</b><br>
-        I'm using <b>Manjaro</b> with <b>i3-gaps</b><br>
-        I'm writing code more than <b>2 years</b><br>
-        I'm playing <b>Video Games</b><br>
+    <p align="justify">
+        I'm a <b>Junior Python/Java Developer</b><br/>
+        I'm using <b>Manjaro</b> with <b>i3-gaps</b><br/>
+        I'm writing code more than <b>2 years</b><br/>
+        I'm playing <b>Video Games</b><br/>
         I'm interesting <b>Linux Customization</b>, <b>3D Modeling</b>, <b>Custom Keyboards</b>, <b>Books</b>, <b>NFT</b> and <b>Web3</b>
     </p>
 </div>
 
-<hr/>
-
-<h2 align="center">Coding stats</h2>
+<h2>Coding stats</h2>
 
 <!--START_SECTION:waka-->
 
@@ -36,9 +27,7 @@ Properties     0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-<hr/>
-
-<div align="center">
+<div>
     <h2>Badges</h2>
     <h3>Operation Systems</h3>
     <a href="https://img.shields.io/badge/">
