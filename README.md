@@ -83,5 +83,5 @@ Markdown       0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </div>
 
 <div align="center">
-    <h2>Find more information about me on my <a href="https://merive.herokuapp.com/">Website</a></h2>
+    <h2>Find more information about me on my <a href="https://merive.herokuapp.com/">Website</a> (Update coming soon)</h2>
 </div>
