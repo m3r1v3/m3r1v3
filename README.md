@@ -12,7 +12,7 @@
     </p>
 </div>
    
-<h2 align="center">📊 Coding stats</h2>
+<h2 align="center">Coding stats</h2>
 <!--START_SECTION:waka-->
 
 ```text
@@ -25,12 +25,12 @@ Other   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 <div align="center">
-    <h2>⚙ Skills</h2>
+    <h2>Skills</h2>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=linux,py,java,bash,html,css,bootstrap,git,markdown" />
     </a>
 </div>
 
 <div align="center">
-    <h2>Find more information about me on my <a href="https://merive.herokuapp.com/">Website</a> (Update coming soon) 🌐</h2>
+    <h2>Find more information about me on my <a href="https://merive.herokuapp.com/">Website</a> (Update coming soon)</h2>
 </div>
