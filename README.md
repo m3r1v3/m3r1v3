@@ -3,8 +3,7 @@
     <h1>merive_</h1>
 </div>
 
-<div>
-    <h2>🚀 About me</h2>
+<div align="center">
     <p>
         I'm a <b>Junior Python/Java Developer</b><br/>
         I'm coding more than <b>2 years</b><br/>
@@ -13,8 +12,7 @@
     </p>
 </div>
    
-<h2>📊 Coding stats</h2>
-
+<h2 align="center">📊 Coding stats</h2>
 <!--START_SECTION:waka-->
 
 ```text
@@ -26,24 +24,11 @@ Other   0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-<div>
+<div align="center">
     <h2>⚙ Skills</h2>
-    <h3>Operation Systems</h3>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=linux" />
-        </a>
-    <h3>Programming Languages</h3>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=py,java,bash" />
-        </a>
-    <h3>Web Technologies</h3>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=html,css,bootstrap" />
-        </a>
-    <h3>Other Technologies</h3>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=git,markdown" />
-        </a>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=linux,py,java,bash,html,css,bootstrap,git,markdown" />
+    </a>
 </div>
 
 <div align="center">
