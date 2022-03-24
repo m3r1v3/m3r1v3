@@ -27,7 +27,7 @@ Sublime Text Config   2 mins          ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <div align="center">
     <h2>Skills</h2>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,py,java,bash,html,css,bootstrap,git,markdown" />
+        <img src="https://skillicons.dev/icons?i=linux,py,java,bash,html,css,bootstrap,heroku,git,markdown" />
     </a>
 </div>
 
