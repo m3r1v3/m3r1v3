@@ -26,11 +26,18 @@ Sublime Text Config   2 mins          ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <div align="center">
     <h2>Skills</h2>
-    <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,py,java,bash,html,css,bootstrap,heroku,git,markdown" />
-    </a>
+    <h3>OS</h3>
+    <img src="https://skillicons.dev/icons?i=linux" />
+    <h3>Programming Languages</h3>
+    <img src="https://skillicons.dev/icons?i=py,java,bash" />
+    <h3>Web</h3>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,svg,heroku,postgres" />
+    <h3>IDEs/Editors</h3>
+    <img src="https://skillicons.dev/icons?i=androidstudio,eclipse,idea,vim" />
+    <h3>Other Skills</h3>
+    <img src="https://skillicons.dev/icons?i=regex,git,markdown,blender" />
 </div>
 
 <div align="center">
-    <h2>Find more information about me on my <a href="https://merive.herokuapp.com/">Website</a> (Update coming soon)</h2>
+    <h2>Find more information about me on my <a href="https://merive.herokuapp.com/">Website</a></h2>
 </div>
