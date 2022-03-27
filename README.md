@@ -5,10 +5,10 @@
 
 <div align="center">
     <p>
-        I'm a <b>Junior Python/Java Developer</b><br/>
-        I'm coding more than <b>2 years</b><br/>
-        BTW I'm interesting <b>Linux</b> and using <b>Manjaro</b><br/>
-        Also interesting <b>Video Games</b>, <b>3D Modeling</b>, <b>Reading</b>, <b>Web3</b> and <b>Chess</b>
+        I'm a <b>Junior Python/Java Developer</b><br>
+        I'm coding more than <b>2 years</b><br>
+        BTW I'm using <b>Manjaro</b><br>
+        I'm interesting <b>Video Games</b>, <b>3D Modeling</b>, <b>Reading</b>, <b>Web3</b> and <b>Chess</b>
     </p>
 </div>
    
