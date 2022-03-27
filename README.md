@@ -25,15 +25,10 @@ Sublime Text Config   2 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 
 <div align="center">
     <h2>Skills</h2>
-    <h3>OS</h3>
     <img src="https://skillicons.dev/icons?i=linux" />
-    <h3>Programming Languages</h3>
     <img src="https://skillicons.dev/icons?i=py,java,bash" />
-    <h3>Web</h3>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,svg,heroku,postgres" />
-    <h3>IDEs/Editors</h3>
     <img src="https://skillicons.dev/icons?i=androidstudio,eclipse,idea,vim" />
-    <h3>Other Skills</h3>
     <img src="https://skillicons.dev/icons?i=regex,git,markdown,blender" />
 </div>
 
