@@ -23,11 +23,7 @@ No activity tracked
 
 <div align="center">
     <h2>Skills</h2>
-    <img src="https://skillicons.dev/icons?i=linux" />
-    <img src="https://skillicons.dev/icons?i=py,java,bash" />
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,svg,heroku,postgres" />
-    <img src="https://skillicons.dev/icons?i=androidstudio,eclipse,idea,vim" />
-    <img src="https://skillicons.dev/icons?i=regex,git,markdown,blender" />
+    <img src="https://skillicons.dev/icons?i=linux,py,java,bash,html,css,bootstrap,svg,heroku,postgres,androidstudio,eclipse,idea,vim,regex,git,markdown,blender" />
 </div>
 
 <div align="center">
