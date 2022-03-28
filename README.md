@@ -16,9 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 March 2022 - To: 26 March 2022
-
-Sublime Text Config   2 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
