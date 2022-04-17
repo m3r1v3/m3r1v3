@@ -30,5 +30,5 @@ Python   45 mins         ⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </div>
 
 <div align="center">
-    <h2>Find more information about me on my <a href="https://merive.herokuapp.com/">Website</a></h2>
+    <h2>Find more information on my <a href="https://merive.herokuapp.com/">Website</a></h2>
 </div>
