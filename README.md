@@ -39,7 +39,7 @@ Properties       12 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
         If you are willing to help me with my projects, you can donate to my etherium wallet.
         The amount indicated on the next QR Code is equal to one mug of coffee.
     </p>
-    <a href="ethereum:0x332df926458f7e81e079e1C951747B17f66caa01?amount=0.0005"><img src="https://github.com/merive/merive/blob/main/assets/support.svg" width="196"></a>
+    <img src="https://github.com/merive/merive/blob/main/assets/support.svg" width="196">
 </div>
 
 <div align="center">
