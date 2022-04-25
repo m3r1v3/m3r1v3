@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/merive/merive/blob/master/assets/merive.svg" width="64">
+    <img src="https://github.com/merive/merive/blob/main/assets/merive.svg" width="64">
     <h1>merive_</h1>
 </div>
 
@@ -31,6 +31,15 @@ Properties       12 mins         ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <div align="center">
     <h2>Skills</h2>
     <img src="https://skillicons.dev/icons?i=linux,py,java,bash,html,css,bootstrap,svg,heroku,postgres,androidstudio,eclipse,idea,vim,regex,git,markdown,blender" />
+</div>
+
+<div align="center">
+    <h2>Support me</h2>
+    <p>
+        If you are willing to help me with my projects, you can donate to my etherium wallet.
+        The amount indicated on the next QR Code is equal to one mug of coffee.
+    </p>
+    <a href="ethereum:0x332df926458f7e81e079e1C951747B17f66caa01?amount=0.0005"><img src="https://github.com/merive/merive/blob/main/assets/support.svg" width="196"></a>
 </div>
 
 <div align="center">
