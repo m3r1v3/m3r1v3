@@ -16,7 +16,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 04 July 2022 - To: 11 July 2022
+
+Python   1 hr 9 mins     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   57.63 %
+HTML     51 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   42.37 %
 ```
 
 <!--END_SECTION:waka-->
