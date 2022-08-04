@@ -28,7 +28,7 @@ Text       0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <div align="center">
     <h2>Skills</h2>
-    <img src="https://skillicons.dev/icons?i=linux,py,java,bash,html,css,bootstrap,svg,heroku,postgres,androidstudio,eclipse,idea,vim,regex,git,markdown,blender" />
+    <img src="https://skillicons.dev/icons?i=linux,py,java,bash,html,css,bootstrap,svg,heroku,postgres,androidstudio,eclipse,idea,vim,regex,git,markdown,blender&perline=6" />
 </div>
 
 <div align="center">
@@ -37,7 +37,7 @@ Text       0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
         If you are willing to help me with my projects, you can donate to my etherium wallet.
         The amount indicated on the next QR Code is equal to one mug of coffee.
     </p>
-    <img src="https://github.com/merive/merive/blob/main/assets/support.svg" width="196">
+    <img src="https://github.com/merive/merive/blob/main/assets/support.svg" width="128">
 </div>
 
 <div align="center">
