@@ -7,7 +7,7 @@
 <hr>
 
 <div>
-    <h2>About me</h2>
+    <h2>About</h2>
     <p>
         I'm a <b>Junior Python/Java Developer</b><br>
         I'm coding more than <b>2 years</b><br>
@@ -18,7 +18,7 @@
 
 <hr>
    
-<h2>Coding stats</h2>
+<h2>Stats</h2>
 
 <!--START_SECTION:waka-->
 📊 **This Week I Spent My Time On** 
@@ -55,7 +55,7 @@ Linux                    20 hrs 13 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 
 <hr>
 
-<h2>Support me</h2>
+<h2>Support</h2>
     <p>
         If you are willing to help me with my projects, you can donate to my etherium wallet.
         The amount indicated on the next QR Code is equal to one mug of coffee.
