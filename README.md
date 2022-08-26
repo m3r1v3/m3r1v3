@@ -50,7 +50,7 @@ Linux                    8 hrs 4 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <h2>Skills</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=linux,py,java,bash,html,css,bootstrap,svg,heroku,postgres,androidstudio,eclipse,idea,vim,regex,git,markdown,blender&perline=9" />
+    <img src="https://skillicons.dev/icons?i=linux,py,java,bash,html,css,bootstrap,svg,markdown,sqlite,postgres,gradle,git,github,githubactions,heroku,androidstudio,eclipse,idea,atom,vim,neovim,regex,blender&perline=8" />
 </div>
 
 <hr>
