@@ -10,7 +10,7 @@
     <h2>About</h2>
     <p>
         I'm a <b>Junior Python/Java Developer</b><br>
-        I'm coding more than <b>2 years</b><br>
+        I'm coding more than <b>3 years</b><br>
         BTW I used <b>Manjaro</b><br>
         I'm interesting <b>Video Games</b>, <b>3D Modeling</b>, <b>Reading</b>, <b>Web3</b> and <b>Chess</b>
     </p>
