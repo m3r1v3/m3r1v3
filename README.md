@@ -67,5 +67,5 @@ Windows                  3 hrs 22 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <hr>
 
 <div align="center">
-    <h2>Find more information on my <a href="https://merive.vercel.app/">Website</a> (The website has moved to new domain)</h2>
+    <h3>Find more information on my <a href="https://merive.vercel.app/">Website</a> (The website has moved to <i>merive.vercel.app</i> domain)</h3>
 </div>
