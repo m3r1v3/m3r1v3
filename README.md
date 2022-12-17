@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://github.com/merive/merive/blob/main/assets/merive.svg" width="64">
-    <h1>merive_</h1>
+    <h1>merive</h1>
     <p><b>“Freedom is the freedom to say that two plus two make four. If that is granted, all else follows.”</b> ― G. Orwell, 1984</p>
 </div>
 
@@ -9,7 +9,7 @@
 <div>
     <h2>About</h2>
     <p>
-        I'm a <b>Junior Python/Java Developer</b><br>
+        I'm a <b>Python/Java Developer</b><br>
         I'm coding more than <b>3 years</b><br>
         BTW I used <b>Manjaro</b><br>
         I'm interesting <b>Video Games</b>, <b>3D Modeling</b>, <b>Reading</b>, <b>Web3</b>, <b>Chess</b> and learning <b>Languages</b>
