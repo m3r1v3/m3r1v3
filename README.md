@@ -59,7 +59,9 @@ Windows                  1 hr 22 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
     </p>
     
 <div align="center">
-    <img align="center" src="https://github.com/merive/merive/blob/main/assets/support.svg" width="128">
+    <table>
+            <tr><td>Etherium</th><th>0x332df926458f7e81e079e1C951747B17f66caa01</td></tr>
+    </table>
 </div>
 
 <hr>
