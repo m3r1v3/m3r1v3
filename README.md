@@ -55,7 +55,6 @@ Windows                  1 hr 22 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
 <h2>Support</h2>
     <p>
         If you are willing to help me with my projects, you can donate to my etherium wallet.
-        The amount indicated on the next QR Code is equal to one mug of coffee.
     </p>
     
 <div align="center">
