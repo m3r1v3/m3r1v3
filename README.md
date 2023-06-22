@@ -1,13 +1,5 @@
-<div align="center">
-    <img src="https://github.com/merive/merive/blob/main/assets/merive.svg" width="64">
-    <h1>merive</h1>
-    <p><b>“Freedom is the freedom to say that two plus two make four. If that is granted, all else follows.”</b> ― G. Orwell, 1984</p>
-</div>
-
-<hr>
 
 <div>
-    <h2>About</h2>
     <p>
         I'm a <b>Python/Java Developer</b><br>
         I'm coding more than <b>4 years</b><br>
@@ -60,10 +52,4 @@ Windows                  8 hrs 14 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿�
     <table>
             <tr><td>Etherium</th><th>0x332df926458f7e81e079e1C951747B17f66caa01</td></tr>
     </table>
-</div>
-
-<hr>
-
-<div align="center">
-    <h3>Find more information on my <a href="https://merive.vercel.app/">Website</a></h3>
 </div>
