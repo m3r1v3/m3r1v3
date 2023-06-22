@@ -4,9 +4,9 @@
 
 <div>
     <p>
-        I'm a <b>Python/Java Developer</b><br>
-        I'm coding more than <b>4 years</b><br>
-        BTW I used <b>Manjaro</b><br>
-        I'm interesting <b>Video Games</b>, <b>3D Modeling</b>, <b>Reading</b>, <b>Web3</b>, <b>Chess</b> and learning <b>Languages</b>
+        i'm a <b>python/java developer</b><br>
+        i'm coding more than <b>4 years</b><br>
+        btw i used <b>manjaro</b><br>
+        i'm interesting <b>video games</b>, <b>3d modeling</b>, <b>reading</b>, <b>web3</b>, <b>chess</b> and learning <b>languages</b>
     </p>
 </div>
