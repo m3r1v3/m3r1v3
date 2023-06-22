@@ -1,3 +1,6 @@
+<div align="center">
+    <img src="https://github.com/merive/merive/blob/main/assets/banner.png">
+</div>
 
 <div>
     <p>
