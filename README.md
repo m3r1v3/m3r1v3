@@ -1,14 +1,10 @@
-<div align="center">
-    <img src="https://github.com/merive/merive/blob/main/assets/banner.png">
-</div>
-
 <div>
     <p>
         hello, world!<br>
-        i'm a <b>python/java/cpp developer</b><br>
-        i'm coding more than <b>4 years</b><br>
-        stydy <b>math and computer science</b> at the university<br>
-        btw i like <b>manjaro</b><br>
-        i'm interesting <b>video games</b>, <b>3d modeling</b>, <b>reading</b>, <b>web3</b>, <b>chess</b> and <b>human/computer languages</b>
+        python/java/cpp developer<br>
+        coding more than 4 years<br>
+        stydy math and computer science at the university<br>
+        btw i love linux<br>
+        i'm interested in video games, 3d modeling, reading, web3, chess, linguistic, philosophy
     </p>
 </div>
